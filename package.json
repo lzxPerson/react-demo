@@ -141,8 +141,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "engines": {
-    "node": "^18 || >=20"
   }
 }
